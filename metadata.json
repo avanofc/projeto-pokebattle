@@ -1,0 +1,7 @@
+{
+  "name": "PokeQuest Online",
+  "description": "Um RPG de batalha Pokémon por turnos com narração dinâmica via Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
